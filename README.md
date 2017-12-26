@@ -1,3 +1,7 @@
+# NOTE 2017.12.26更新日誌
+
+修復了页尾页数显示`第 x 页， 共 ?? 页`的问题，感谢[ToshQiu](https://github.com/ToshQiu)关于此Bugfix的[issue](https://github.com/ScarlettCanaan/bnuzthesis/pull/1)。
+
 # NOTE:
 
 此宏包是基于薛瑞尼的清华大学学位论文LaTeX模板[thuthesis](https://github.com/xueruini/thuthesis)的基础上，依据北京师范大学珠海分校的本科生学位论文排版要求，修改部分排版宏而成。适用于北京师范大学珠海分校的毕业学位论文格式。其编译与使用方法均与[thuthesis](https://github.com/xueruini/thuthesis)相同。以下请参照[thuthesis](https://github.com/xueruini/thuthesis)的编译与使用方法。
